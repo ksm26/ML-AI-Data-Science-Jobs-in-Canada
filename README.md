@@ -17,4 +17,4 @@
 | 13  | [CoPilot AI](http://copilotai.com) | Vancouver, Canada |
 | 14  | [ShyftLabs.io](http://ShyftLabs.io) | India, Toronto |
 | 15  | [Kinaxis](http://kinaxis.com/) | Canada |
-| 16  | [Unbounce]([http://kinaxis.com/](https://unbounce.com/)https://unbounce.com/) | Vancouver, Canada |
+| 16  | [Unbounce](https://unbounce.com/) | Vancouver, Canada |
