@@ -22,4 +22,6 @@
 | 18  | [Acceler8 Talent](https://www.acceler8talent.com/) | Onsite / Remote | Acceler8 Talent partners with technology companies to propel their funding and business forward|
 | 19  | [Tundra Technical Solutions](https://tundra.talentnet.community/) | Onsite / Remote | A global staffing firm hiring top talent for industry-leading organizations|
 | 20  | [TELUS International](https://www.telusinternational.com/) | Onsite / Remote | Next-gen digital customer experience (CX) solutions for global and disruptive brands.|
-| 21  | [Clevertech](https://clevertech.biz/remote-jobs?ct_source=linkedin) | Onsite / Remote | Tech at the speed of ideas. IT Services and IT Consulting|
+| 21  | [Clevertech](https://clevertech.biz/remote-jobs?ct_source=linkedin) | Onsite / Remote | Tech at the speed of ideas. IT Services and IT Consulting| 
+| 22  | [Harnham](https://www.harnham.com/) | Onsite / Remote | Harnham are the global leader in Data, AI & Analytics recruitment and talent solutions.| 
+| 23 | [The Coalition Studio](https://www.thecoalitionstudio.com/) | Vancouver | The Coalition is a team of talented, creative, fun-loving professionals united in their passion for Gears Of War.|
