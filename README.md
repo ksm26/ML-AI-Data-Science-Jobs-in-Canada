@@ -25,3 +25,4 @@
 | 21  | [Clevertech](https://clevertech.biz/remote-jobs?ct_source=linkedin) | Onsite / Remote | Tech at the speed of ideas. IT Services and IT Consulting| 
 | 22  | [Harnham](https://www.harnham.com/) | Onsite / Remote | Harnham are the global leader in Data, AI & Analytics recruitment and talent solutions.| 
 | 23 | [The Coalition Studio](https://www.thecoalitionstudio.com/) | Vancouver | The Coalition is a team of talented, creative, fun-loving professionals united in their passion for Gears Of War.|
+| 24 | [Visionary Innovative Technology Solutions LLC](https://www.vitsus.com/) | Onsite / Remote | Innovation With Vision IT Services and IT Consulting |
