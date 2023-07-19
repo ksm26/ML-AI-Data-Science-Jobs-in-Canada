@@ -1,7 +1,7 @@
 # ML-AI-Data-Science-Jobs-in-Canada
 
 | No. | Company Name | Location | About | 
-|-----|--------------|----------|--------|
+|-----|--------------|-----------|--------|
 | 1   | [Canada AI](http://www.canada.ai/directory#) | Canada | |
 | 2   | [Crater Labs](https://craterlabs.io/) | Canada | |
 | 3   | [Altis Labs](https://www.altislabs.com/) | Canada | |
@@ -26,3 +26,5 @@
 | 22  | [Harnham](https://www.harnham.com/) | Onsite / Remote | Harnham are the global leader in Data, AI & Analytics recruitment and talent solutions.| 
 | 23 | [The Coalition Studio](https://www.thecoalitionstudio.com/) | Vancouver | The Coalition is a team of talented, creative, fun-loving professionals united in their passion for Gears Of War.|
 | 24 | [Visionary Innovative Technology Solutions LLC](https://www.vitsus.com/) | Onsite / Remote | Innovation With Vision IT Services and IT Consulting |
+| 25 | [DRW](https://drw.com/) | Montreal / MNC | Financial Services |
+| 26 | [Wave HQ](https://www.waveapps.com/) | Toronto | Software development | 
