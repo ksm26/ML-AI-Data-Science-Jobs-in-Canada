@@ -37,3 +37,4 @@
 | 30 | [Veeva Systems](https://www.veeva.com/) | Toronto | The Industry Cloud for Life Sciences |
 | 31 | [Cohere] (https://cohere.com/) | Toronto | Build machines that understand the world, and to make them safely accessible to all. |
 | 32 | [ProCogia](https://procogia.com/) | Vancouver | Higher Intelligence. Deeper Insights. Smarter Decisions. IT Services and IT Consulting |
+| 33 | [LMI Technologies](https://lmi3d.com/) | Vancouver | Designing and delivering innovative 3D machine vision solutions to OEMs and System Integrators |
