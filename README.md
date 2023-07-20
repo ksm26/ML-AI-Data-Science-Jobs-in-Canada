@@ -34,3 +34,6 @@
 | 27 | [Lucid Axon](https://lucidaxon.com/) | Montreal | Lucid Axon utilizes cutting-edge AI tech. to deliver transparent Environmental, Social, and Governance (ESG) insights |
 | 28 | [Data Elephant](https://www.dataelephant.com/) | Vancouver | Data Infrastructure and Analytics |
 | 29 | [Oeson](https://www.oeson.in/) | Remote | IT Services and IT Consulting |
+| 30 | [Veeva Systems](https://www.veeva.com/) | Toronto | The Industry Cloud for Life Sciences |
+| 31 | [Cohere] (https://cohere.com/) | Toronto | Build machines that understand the world, and to make them safely accessible to all. |
+| 32 | [ProCogia](https://procogia.com/) | Vancouver | Higher Intelligence. Deeper Insights. Smarter Decisions. IT Services and IT Consulting |
