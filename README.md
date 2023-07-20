@@ -31,3 +31,6 @@
 | 24 | [Visionary Innovative Technology Solutions LLC](https://www.vitsus.com/) | Onsite / Remote | Innovation With Vision IT Services and IT Consulting |
 | 25 | [DRW](https://drw.com/) | Montreal / MNC | Financial Services |
 | 26 | [Wave HQ](https://www.waveapps.com/) | Toronto | Software development | 
+| 27 | [Lucid Axon](https://lucidaxon.com/) | Montreal | Lucid Axon utilizes cutting-edge AI tech. to deliver transparent Environmental, Social, and Governance (ESG) insights |
+| 28 | [Data Elephant](https://www.dataelephant.com/) | Vancouver | Data Infrastructure and Analytics |
+| 29 | [Oeson](https://www.oeson.in/) | Remote | IT Services and IT Consulting |
