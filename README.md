@@ -40,3 +40,4 @@
 | 32 | [ProCogia](https://procogia.com/) | Vancouver | Higher Intelligence. Deeper Insights. Smarter Decisions. IT Services and IT Consulting |
 | 33 | [LMI Technologies](https://lmi3d.com/) | Vancouver | Designing and delivering innovative 3D machine vision solutions to OEMs and System Integrators |
 | 34 | [Apziva](https://www.apziva.com/) | Remote | E-Learning Providers |
+| 35 | [Oxa](https://oxa.tech/) | Toronto | Self-driving software and services for autonomy |
