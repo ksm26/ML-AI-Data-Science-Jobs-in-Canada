@@ -42,3 +42,4 @@
 | 34 | [Apziva](https://www.apziva.com/) | Remote | E-Learning Providers |
 | 35 | [Oxa](https://oxa.tech/) | Toronto | Self-driving software and services for autonomy |
 | 36 | [Cresta](https://jobs.lever.co/cresta) | Multiple locations | Generative AI |
+| 37 | [Inworld.ai](https://inworld.ai/careers#job-openings) | USA, Canada | The developer platform for AI characters |
