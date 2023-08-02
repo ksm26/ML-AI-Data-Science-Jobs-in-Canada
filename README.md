@@ -45,3 +45,4 @@
 | 37 | [Inworld.ai](https://inworld.ai/careers#job-openings) | USA, Canada | The developer platform for AI characters |
 | 38 | [Borealis AI](https://www.borealisai.com/) | Toronto | Borealis AI researches, designs, and builds AI products and technologies that transform RBC businesses and shape the future of finance|
 | 39 | [resemble.ai](https://www.resemble.ai/) | Remote | Enterprise Ready Generative Voice AI Toolkit |
+| 40 | [Symend](https://symend.com/) | Calgary | Strengthens customer engagement strategies |
