@@ -48,3 +48,4 @@
 | 40 | [Symend](https://symend.com/) | Calgary | Strengthens customer engagement strategies |
 | 41 | [hoyoverse](https://www.hoyoverse.com/en-us) | Multiple locations | Gaming keywords |
 | 42 | [Ascendion](https://ascendion.com/) | Toronto | Software Engg. |
+| 43 | [Caylent](https://caylent.com/) | Canada | AWS cloud services company |
