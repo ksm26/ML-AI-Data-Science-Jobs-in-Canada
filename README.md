@@ -49,3 +49,4 @@
 | 41 | [hoyoverse](https://www.hoyoverse.com/en-us) | Multiple locations | Gaming keywords |
 | 42 | [Ascendion](https://ascendion.com/) | Toronto | Software Engg. |
 | 43 | [Caylent](https://caylent.com/) | Canada | AWS cloud services company |
+| 44 | [Lab8 Recruitment](https://www.lab8recruitment.com/) | Canada | Recruitment agency for the video games, virtual reality & creative technology |
