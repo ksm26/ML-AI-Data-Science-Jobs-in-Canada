@@ -3,7 +3,8 @@
 ## Websites
 - [ai-jobs.net](https://ai-jobs.net/) : Jobs in AI, ML, Data Science and Big Data
 - [Found.dev](https://found.dev/?search=&type=&page=1) : Find developer jobs across several countries
-
+- [startup.jobs](https://startup.jobs/) : Jobs in startups
+  
 | No. | Company Name | Location | About | 
 |-----|--------------|-----------|--------|
 | 1   | [Canada AI](http://www.canada.ai/directory#) | Canada | |
